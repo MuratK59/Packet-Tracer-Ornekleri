@@ -1,4 +1,4 @@
-# PacketTracerOrnekleri
+# Packet Tracer Ornekleri
 Cisco Packet Tracer Programı ile hazırlanmış ağ yönetimi örnekleri
 
 1- Packet Tracer için üyelik ve Packet Tracer kurulumu https://www.youtube.com/watch?v=8kNHPObk3CI&list=PLU4zLdIlTLofSK8NhWS18iXhtgFm6B9by
