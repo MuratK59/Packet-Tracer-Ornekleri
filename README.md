@@ -16,3 +16,5 @@ Cisco Packet Tracer Programı ile hazırlanmış ağ yönetimi örnekleri
 7- Packet Tracer WEB, DNS, FTP ve EMAIL Sunucu Örneği https://www.youtube.com/watch?v=yX1oA1BQ-zI&list=PLU4zLdIlTLofSK8NhWS18iXhtgFm6B9by&index=7
 
 8-  Router ve Harici Sunucu Olarak DHCP yapılandırması Örneği https://www.youtube.com/watch?v=NKZzICtqcms&list=PLU4zLdIlTLofSK8NhWS18iXhtgFm6B9by&index=8
+
+9- Port Kümeleme (EtherChannel) Örneği https://www.youtube.com/watch?v=70ovXKyHON8
